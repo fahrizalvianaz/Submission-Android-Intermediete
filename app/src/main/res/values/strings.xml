@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="belum_punya_akun">Belum punya akun ?</string>
+    <string name="daftar">Daftar</string>
+    <string name="masuk">Masuk</string>
+    <string name="email">Email</string>
+    <string name="nama">Nama</string>
+    <string name="sudah_punya_akun">Sudah punya akun ?</string>
+    <string name="logout">Logout</string>
+    <string name="date">Date</string>
+    <string name="nama_story">Nama</string>
+    <string name="ket">Dibuat pada : </string>
+    <string name="deskripsi">Deskripsi...</string>
+    <string name="pada">Pada :</string>
+    <string name="images_story">Images Story</string>
+    <string name="pilih_gambar">Pilih Gambar</string>
+    <string name="camera">Camera</string>
+    <string name="galery">Galery</string>
+    <string name="gallery">gallery</string>
+    <string name="create_deskripsi">Deskripsi</string>
+    <string name="upload">Upload</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="maps">Maps Activity</string>
+    <string name="retry">Retry</string>
+
+</resources>
